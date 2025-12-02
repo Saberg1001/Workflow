@@ -1,0 +1,62 @@
+%chk=opt.chk
+%nprocshared=8
+%mem=8GB
+#p opt wB97XD/6-31G(d)
+
+opt
+
+0 1
+C    -0.925371     0.074208     0.032840
+C     0.512318    -0.419182    -0.074315
+O     1.377821     0.449380     0.604428
+H    -1.022525     1.073072    -0.442857
+H    -1.604437    -0.636788    -0.483222
+H    -1.223597     0.147244     1.100206
+H     0.805780    -0.506016    -1.145105
+H     0.585213    -1.427396     0.385335
+H     1.494798     1.245478     0.022690
+
+
+--link1--
+%chk=neutral.chk
+%oldchk=opt.chk
+%nprocshared=8
+%mem=8GB
+#p wB97XD/DEF2SVP geom=check guess=read
+
+neutral
+
+0 1
+
+--link1--
+%chk=anion.chk
+%oldchk=opt.chk
+%nprocshared=8
+%mem=8GB
+#p wB97XD/DEF2SVP geom=check guess=read
+
+anion
+
+-1 2
+
+--link1--
+%chk=cation.chk
+%oldchk=opt.chk
+%nprocshared=8
+%mem=8GB
+#p wB97XD/DEF2SVP geom=check guess=read
+
+cation
+
+1 2
+
+--link1--
+%chk=excited.chk
+%oldchk=opt.chk
+%nprocshared=8
+%mem=8GB
+#p TD(NState=5) wB97XD/DEF2SVP IOp(9/40=3) geom=check guess=read
+
+excited
+
+0 1
