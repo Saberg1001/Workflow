@@ -7,7 +7,6 @@ opt
 
 0 1
 atomic coordinates
-
 --link1--
 %chk=neutral.chk
 %oldchk=opt.chk

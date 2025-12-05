@@ -1,0 +1,445 @@
+2025-12-02T21:45:10	pair04	aldehyde	C12=CC(C3C=CC(C=O)=CC=3)=C(C3C=CC(C=O)=CC=3)C=C1C13C4=CC(C5C=CC(C=O)=CC=5)=C(C5C=CC(C=O)=CC=5)C=C4C21C1=CC(C2C=CC(C=O)=CC=2)=C(C2C=CC(C=O)=CC=2)C=C31	3D embedding failed
+2025-12-02T21:45:11	pair07	aldehyde	[H]C123([BH]456C7389C%10=CC=C(N%11C(C=CC(C%12=CC=C(C=O)C=C%12)=C%13)=C%13C%14=C%11C=CC(C%15=CC=C(C=O)C=C%15)=C%14)C=C%10)[BH]%16%174[BH]%18%19%20[BH]%21%22%23[BH]%18%166[BH]%2158[BH]%22%247[BH]%23%19%25[BH]%2419[BH]%17%202%25	Invalid SMILES string
+2025-12-02T21:46:40	pair15	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Co]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	3D embedding failed
+2025-12-02T21:46:43	pair17	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Zn]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	3D embedding failed
+2025-12-02T21:48:16	pair19	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Co]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	3D embedding failed
+2025-12-02T21:48:19	pair21	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3C=CC5C(=C6N7C(=C(C8C=CC(C(NN)=O)=CC=8)C8=N([Zn]47N=53)C=2C=C8)C=C6)C2C=CC(C(NN)=O)=CC=2)=CC=1)=O	3D embedding failed
+2025-12-02T21:49:43	pair23	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Co]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	3D embedding failed
+2025-12-02T21:49:46	pair25	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3C=CC5C(=C6N7C(=C(C8C=CC(C(NN)=O)=CC=8)C8=N([Zn]47N=53)C=2C=C8)C=C6)C2C=CC(C(NN)=O)=CC=2)=CC=1)=O	3D embedding failed
+2025-12-02T21:49:46	pair27	aldehyde	O=Cc1ccc(C#Cc2ccc(C(=C(c3ccc(C#Cc4ccc(C=O)cc4)cc3)c3ccc(C#Cc4ccc(C=O)cc4)cc3)c3ccc(C#Cc4ccc(C=O)cc4)cc3)cc2)cc1	3D embedding failed
+2025-12-02T21:49:47	pair28	aldehyde	O=CC(C=C1)=CC=C1C(C=C2)=CC=C2C345([BH]678C95%10%11C%12=CC=C(C%13=CC=C(C=O)C=C%13)C=C%12)[BH]%14%156[BH]%16%17%18[BH]%19%20%21[BH]%16%148[BH]%197%10[BH]%20%229[BH]%21%17%23[BH]%223%11[BH]%15%184%23	Invalid SMILES string
+2025-12-02T21:49:55	pair58	aldehyde	C(O)C(C=O)=CC=C1	Invalid SMILES string
+2025-12-04T10:50:30	pair04	aldehyde	C12=CC(C3C=CC(C=O)=CC=3)=C(C3C=CC(C=O)=CC=3)C=C1C13C4=CC(C5C=CC(C=O)=CC=5)=C(C5C=CC(C=O)=CC=5)C=C4C21C1=CC(C2C=CC(C=O)=CC=2)=C(C2C=CC(C=O)=CC=2)C=C31	3D embedding failed
+2025-12-04T10:50:30	pair07	aldehyde	[H]C123([BH]456C7389C%10=CC=C(N%11C(C=CC(C%12=CC=C(C=O)C=C%12)=C%13)=C%13C%14=C%11C=CC(C%15=CC=C(C=O)C=C%15)=C%14)C=C%10)[BH]%16%174[BH]%18%19%20[BH]%21%22%23[BH]%18%166[BH]%2158[BH]%22%247[BH]%23%19%25[BH]%2419[BH]%17%202%25	Invalid SMILES string
+2025-12-04T10:50:31	pair11	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C=O	Invalid SMILES string
+2025-12-04T10:51:31	pair15	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Co]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	3D embedding failed
+2025-12-04T10:51:34	pair17	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Zn]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	3D embedding failed
+2025-12-04T10:52:50	pair19	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Co]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	3D embedding failed
+2025-12-04T10:52:52	pair21	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3C=CC5C(=C6N7C(=C(C8C=CC(C(NN)=O)=CC=8)C8=N([Zn]47N=53)C=2C=C8)C=C6)C2C=CC(C(NN)=O)=CC=2)=CC=1)=O	3D embedding failed
+2025-12-04T10:53:58	pair23	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Co]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	3D embedding failed
+2025-12-04T10:54:03	pair25	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3C=CC5C(=C6N7C(=C(C8C=CC(C(NN)=O)=CC=8)C8=N([Zn]47N=53)C=2C=C8)C=C6)C2C=CC(C(NN)=O)=CC=2)=CC=1)=O	3D embedding failed
+2025-12-04T10:54:03	pair27	aldehyde	O=Cc1ccc(C#Cc2ccc(C(=C(c3ccc(C#Cc4ccc(C=O)cc4)cc3)c3ccc(C#Cc4ccc(C=O)cc4)cc3)c3ccc(C#Cc4ccc(C=O)cc4)cc3)cc2)cc1	3D embedding failed
+2025-12-04T10:54:04	pair28	aldehyde	O=CC(C=C1)=CC=C1C(C=C2)=CC=C2C345([BH]678C95%10%11C%12=CC=C(C%13=CC=C(C=O)C=C%13)C=C%12)[BH]%14%156[BH]%16%17%18[BH]%19%20%21[BH]%16%148[BH]%197%10[BH]%20%229[BH]%21%17%23[BH]%223%11[BH]%15%184%23	Invalid SMILES string
+2025-12-04T10:55:47	pair04	aldehyde	C12=CC(C3C=CC(C=O)=CC=3)=C(C3C=CC(C=O)=CC=3)C=C1C13C4=CC(C5C=CC(C=O)=CC=5)=C(C5C=CC(C=O)=CC=5)C=C4C21C1=CC(C2C=CC(C=O)=CC=2)=C(C2C=CC(C=O)=CC=2)C=C31	3D embedding failed
+2025-12-04T10:55:48	pair07	aldehyde	[H]C123([BH]456C7389C%10=CC=C(N%11C(C=CC(C%12=CC=C(C=O)C=C%12)=C%13)=C%13C%14=C%11C=CC(C%15=CC=C(C=O)C=C%15)=C%14)C=C%10)[BH]%16%174[BH]%18%19%20[BH]%21%22%23[BH]%18%166[BH]%2158[BH]%22%247[BH]%23%19%25[BH]%2419[BH]%17%202%25	Invalid SMILES string
+2025-12-04T10:56:46	pair15	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Co]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	3D embedding failed
+2025-12-04T10:56:48	pair17	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Zn]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	3D embedding failed
+2025-12-04T10:58:09	pair19	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Co]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	3D embedding failed
+2025-12-04T10:58:12	pair21	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3C=CC5C(=C6N7C(=C(C8C=CC(C(NN)=O)=CC=8)C8=N([Zn]47N=53)C=2C=C8)C=C6)C2C=CC(C(NN)=O)=CC=2)=CC=1)=O	3D embedding failed
+2025-12-04T10:59:13	pair23	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Co]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	3D embedding failed
+2025-12-04T10:59:16	pair25	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3C=CC5C(=C6N7C(=C(C8C=CC(C(NN)=O)=CC=8)C8=N([Zn]47N=53)C=2C=C8)C=C6)C2C=CC(C(NN)=O)=CC=2)=CC=1)=O	3D embedding failed
+2025-12-04T10:59:16	pair27	aldehyde	O=Cc1ccc(C#Cc2ccc(C(=C(c3ccc(C#Cc4ccc(C=O)cc4)cc3)c3ccc(C#Cc4ccc(C=O)cc4)cc3)c3ccc(C#Cc4ccc(C=O)cc4)cc3)cc2)cc1	3D embedding failed
+2025-12-04T10:59:17	pair28	aldehyde	O=CC(C=C1)=CC=C1C(C=C2)=CC=C2C345([BH]678C95%10%11C%12=CC=C(C%13=CC=C(C=O)C=C%13)C=C%12)[BH]%14%156[BH]%16%17%18[BH]%19%20%21[BH]%16%148[BH]%197%10[BH]%20%229[BH]%21%17%23[BH]%223%11[BH]%15%184%23	Invalid SMILES string
+2025-12-04T15:40:03	pair27	aldehyde	O=Cc1ccc(C#Cc2ccc(C(=C(c3ccc(C#Cc4ccc(C=O)cc4)cc3)c3ccc(C#Cc4ccc(C=O)cc4)cc3)c3ccc(C#Cc4ccc(C=O)cc4)cc3)cc2)cc1	3D embedding failed
+2025-12-04T15:49:15	pair04	aldehyde	C12=CC(C3C=CC(C=O)=CC=3)=C(C3C=CC(C=O)=CC=3)C=C1C13C4=CC(C5C=CC(C=O)=CC=5)=C(C5C=CC(C=O)=CC=5)C=C4C21C1=CC(C2C=CC(C=O)=CC=2)=C(C2C=CC(C=O)=CC=2)C=C31	3D embedding failed
+2025-12-04T15:49:15	pair07	aldehyde	[H]C123([BH]456C7389C%10=CC=C(N%11C(C=CC(C%12=CC=C(C=O)C=C%12)=C%13)=C%13C%14=C%11C=CC(C%15=CC=C(C=O)C=C%15)=C%14)C=C%10)[BH]%16%174[BH]%18%19%20[BH]%21%22%23[BH]%18%166[BH]%2158[BH]%22%247[BH]%23%19%25[BH]%2419[BH]%17%202%25	Invalid SMILES string
+2025-12-04T15:50:12	pair15	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Co]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	3D embedding failed
+2025-12-04T15:50:13	pair17	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Zn]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	3D embedding failed
+2025-12-04T15:51:12	pair19	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Co]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	3D embedding failed
+2025-12-04T15:51:15	pair21	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3C=CC5C(=C6N7C(=C(C8C=CC(C(NN)=O)=CC=8)C8=N([Zn]47N=53)C=2C=C8)C=C6)C2C=CC(C(NN)=O)=CC=2)=CC=1)=O	3D embedding failed
+2025-12-04T15:52:20	pair23	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Co]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	3D embedding failed
+2025-12-04T15:52:22	pair25	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3C=CC5C(=C6N7C(=C(C8C=CC(C(NN)=O)=CC=8)C8=N([Zn]47N=53)C=2C=C8)C=C6)C2C=CC(C(NN)=O)=CC=2)=CC=1)=O	3D embedding failed
+2025-12-04T15:52:22	pair27	aldehyde	O=Cc1ccc(C#Cc2ccc(C(=C(c3ccc(C#Cc4ccc(C=O)cc4)cc3)c3ccc(C#Cc4ccc(C=O)cc4)cc3)c3ccc(C#Cc4ccc(C=O)cc4)cc3)cc2)cc1	3D embedding failed
+2025-12-04T15:52:23	pair28	aldehyde	O=CC(C=C1)=CC=C1C(C=C2)=CC=C2C345([BH]678C95%10%11C%12=CC=C(C%13=CC=C(C=O)C=C%13)C=C%12)[BH]%14%156[BH]%16%17%18[BH]%19%20%21[BH]%16%148[BH]%197%10[BH]%20%229[BH]%21%17%23[BH]%223%11[BH]%15%184%23	Invalid SMILES string
+2025-12-05T09:42:22	pair01	aldehyde	O=CC1=CC(/C(C2=CC(C=O)=C(O)C=C2)=C(C3=CC(C=O)=C(O)C=C3)/C4=CC(C=O)=C(O)C=C4)=CC=C1O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:22	pair01	amine	Nc1ccc(Oc2ccc(N)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:22	pair02	aldehyde	O=CC(C=C1)=CC=C1C2=CC=C(C3=CC=C(C=O)C=C3)C4=NSN=C24	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:22	pair02	amine	NNC(=O)c1ccc(N(c2ccc(C(=O)NN)cc2)c2ccc(C(=O)NN)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:22	pair03	aldehyde	O=Cc1c(O)c(C=O)c(O)c(C=O)c1O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:22	pair03	amine	NC(C=C1)=CC=C1C2=NC(C3=CC=C(N)C=C3)=NC(C4=CC=C(N)C=C4)=N2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair04	aldehyde	C12=CC(C3C=CC(C=O)=CC=3)=C(C3C=CC(C=O)=CC=3)C=C1C13C4=CC(C5C=CC(C=O)=CC=5)=C(C5C=CC(C=O)=CC=5)C=C4C21C1=CC(C2C=CC(C=O)=CC=2)=C(C2C=CC(C=O)=CC=2)C=C31	3D embedding failed
+2025-12-05T09:42:24	pair04	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair05	aldehyde	O=Cc1ccc(C=O)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair05	amine	C1C(/C(=C(/C2=CC=C(N)C=C2)\C2=CC=C(N)C=C2)/C2=CC=C(N)C=C2)=CC=C(N)C=1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair06	aldehyde	O=CC(C=C1)=CC=C1C(C=C2)=CC=C2B(C3=CC=C(C4=CC=C(C=O)C=C4)C=C3)C5=C(NC6=NC=CC=C6)C7=CC=CC(C(N(CCCC)C8=O)=O)=C7C8=C5	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair06	amine	NNC(=O)c1cc(C(=O)NN)cc(C(=O)NN)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair07	aldehyde	[H]C123([BH]456C7389C%10=CC=C(N%11C(C=CC(C%12=CC=C(C=O)C=C%12)=C%13)=C%13C%14=C%11C=CC(C%15=CC=C(C=O)C=C%15)=C%14)C=C%10)[BH]%16%174[BH]%18%19%20[BH]%21%22%23[BH]%18%166[BH]%2158[BH]%22%247[BH]%23%19%25[BH]%2419[BH]%17%202%25	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair07	amine	O=C(NC1=CC=C(C(NN)=O)C=C1)C2=CC(C(NC3=CC=C(C(NN)=O)C=C3)=O)=CC(C(NC4=CC=C(C(NN)=O)C=C4)=O)=C2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair08	aldehyde	O=Cc1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair08	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair09	aldehyde	O=Cc1ccc(C(=C(c2ccc(C=O)cc2)c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair09	amine	Nc1ccc(Oc2ccc(-c3ccc(Oc4ccc(N)cc4)cc3)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair10	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair10	amine	Nc1ccc(N(c2ccc(N)cc2)c2ccc(N)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair11	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair11	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair12	aldehyde	O=CC1=CC=C([B-]2(OC3=C([N+]2=CC=C4)C4=CC=C3)C5=CC=C(C=O)C=C5)C=C1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair12	amine	NNC(=O)c1cc(C(=O)NN)cc(C(=O)NN)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair13	aldehyde	O=Cc1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair13	amine	C12=C(C3C=CC(C(=O)NN)=CC=3)C3N4[Cu]56N7=C(C(C8C=CC(C(=O)NN)=CC=8)=C8N5C(=C(C5C=CC(C(=O)NN)=CC=5)C(=N16)C=C2)C=C8)C=CC7=C(C1C=CC(C(=O)NN)=CC=1)C4=CC=3	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair14	aldehyde	N#C/C(=C(/C#N)c1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1)c1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair14	amine	Nc1ccc(Cc2ccc(N)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair15	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair15	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Co]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair16	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair16	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Cu]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair17	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair17	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Zn]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair18	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair18	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Mg]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair19	aldehyde	O=CC(C=C1)=CC=C1C2=NC(C3=CC=C(C=O)C=C3)=NC(C4=CC=C(C=O)C=C4)=N2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair19	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Co]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair20	aldehyde	O=CC(C=C1)=CC=C1C2=NC(C3=CC=C(C=O)C=C3)=NC(C4=CC=C(C=O)C=C4)=N2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair20	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Cu]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair21	aldehyde	O=CC(C=C1)=CC=C1C2=NC(C3=CC=C(C=O)C=C3)=NC(C4=CC=C(C=O)C=C4)=N2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair21	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3C=CC5C(=C6N7C(=C(C8C=CC(C(NN)=O)=CC=8)C8=N([Zn]47N=53)C=2C=C8)C=C6)C2C=CC(C(NN)=O)=CC=2)=CC=1)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair22	aldehyde	O=CC(C=C1)=CC=C1C2=NC(C3=CC=C(C=O)C=C3)=NC(C4=CC=C(C=O)C=C4)=N2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair22	amine	C(NN)(C1C=CC(C2C3N4C(C(=C5N6[Mg]74N4C(C=CC4=C(C4=N7C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=6C=C5)C2C=CC(C(NN)=O)=CC=2)=CC=3)=CC=1)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair23	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair23	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Co]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair24	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair24	amine	*C(=O)c1ccc(/C2=C3\C=CC4=[N]3->[Cu]35<-[N]6=C(C=C/C6=C(\c6ccc(C(=O)NN)cc6)c6ccc2[n]63)/C(c2ccc(C(=O)NN)cc2)=c2/cc/c([n]25)=C/4c2ccc(C(=O)N(N)N)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair25	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair25	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3C=CC5C(=C6N7C(=C(C8C=CC(C(NN)=O)=CC=8)C8=N([Zn]47N=53)C=2C=C8)C=C6)C2C=CC(C(NN)=O)=CC=2)=CC=1)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair26	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair26	amine	C(NN)(C1C=CC(C2C3N4C(C(=C5N6[Mg]74N4C(C=CC4=C(C4=N7C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=6C=C5)C2C=CC(C(NN)=O)=CC=2)=CC=3)=CC=1)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair27	aldehyde	O=Cc1ccc(C#Cc2ccc(C(=C(c3ccc(C#Cc4ccc(C=O)cc4)cc3)c3ccc(C#Cc4ccc(C=O)cc4)cc3)c3ccc(C#Cc4ccc(C=O)cc4)cc3)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair27	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair28	aldehyde	O=CC(C=C1)=CC=C1C(C=C2)=CC=C2C345([BH]678C95%10%11C%12=CC=C(C%13=CC=C(C=O)C=C%13)C=C%12)[BH]%14%156[BH]%16%17%18[BH]%19%20%21[BH]%16%148[BH]%197%10[BH]%20%229[BH]%21%17%23[BH]%223%11[BH]%15%184%23	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair28	amine	NNC(C1C=CC(NC(C2C=C(C(NC3C=CC(C(NN)=O)=CC=3)=O)C=C(C(NC3C=CC(C(NN)=O)=CC=3)=O)C=2)=O)=CC=1)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair29	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair29	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair30	aldehyde	O=CC1C=CC(C2C=NC(C3C=CC(C=O)=CC=3)=CC=2)=CC=1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair30	amine	C1C(/C(=C(/C2=CC=C(N)C=C2)\C2=CC=C(N)C=C2)/C2=CC=C(N)C=C2)=CC=C(N)C=1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair31	aldehyde	O=Cc1ccc(C(=C(c2ccc(C=O)cc2)c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair31	amine	NNC(C1C(N2CCC2)=CC(C(NN)=O)=C(N2CCC2)C=1)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair32	aldehyde	O=Cc1ccc(N(c2ccc(C=O)cc2)c2ccc(-c3c4ccccc4nc4ccccc34)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair32	amine	NNC(=O)c1cc(C(=O)NN)cc(C(=O)NN)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair33	aldehyde	O=Cc1ccc(-c2cc(-c3ccc(C=O)s3)cc(-c3ccc(C=O)s3)c2)s1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair33	amine	C=CCOC1C(C(NN)=O)=CC(OCC=C)=C(C(NN)=O)C=1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair34	aldehyde	O=Cc1ccc(-c2cc(-c3ccc(C=O)cc3)c3ccc4c(-c5ccc(C=O)cc5)cc(-c5ccc(C=O)cc5)c5ccc2c3c54)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair34	amine	Nc1ccc(N(c2ccc(N)cc2)c2ccc(N(c3ccc(N)cc3)c3ccc(N)cc3)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair35	aldehyde	C12C=C(C=O)SC1=C1C=C(C=O)SC1=C1C=C(C=O)SC=21	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair35	amine	Nc1ccc(-c2cc(-c3ccc(N)cc3)cc(-c3ccc(N)cc3)c2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair36	aldehyde	C12C=C(C=O)SC1=C1C=C(C=O)SC1=C1C=C(C=O)SC=21	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair36	amine	Nc1ccc(N(c2ccc(N)cc2)c2ccc(N)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair37	aldehyde	O=Cc1ccc(-c2ccc3c(c2)Cc2cc(-c4ccc(C=O)cc4)ccc2-3)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair37	amine	Nc1ccc(-c2ccc(-c3ccc(N)cc3)c3nonc23)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair38	aldehyde	O=Cc1ccc(C(=C(c2ccc(C=O)cc2)c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair38	amine	NNC(=O)c1ccc(C(=O)NN)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair39	aldehyde	O=Cc1ccc(-c2ccc(C(=C(c3ccc(-c4ccc(C=O)cc4)cc3)c3ccc(-c4ccc(C=O)cc4)cc3)c3ccc(-c4ccc(C=O)cc4)cc3)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair39	amine	O=C(NN)C(C=CC(C(NN)=O)=C1)=C1OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC2=CC(C(NN)=O)=CC=C2C(NN)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair40	aldehyde	O=Cc1cccc(C=O)c1O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair40	amine	O=C(NN)C(C=CC(C(NN)=O)=C1)=C1OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC2=CC(C(NN)=O)=CC=C2C(NN)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair41	aldehyde	CCCCCCC1(C2=CC3=C(C=C2C2SC(=CC1=2)C=O)C(C1C=C(C=O)SC=13)(CCCCCC)CCCCCC)CCCCCC	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair41	amine	Nc1ccc(-c2cc(-c3ccc(N)cc3)cc(-c3ccc(N)cc3)c2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair42	aldehyde	CCCCCCC1(C2=CC3=C(C=C2C2SC(=CC1=2)C=O)C(C1C=C(C=O)SC=13)(CCCCCC)CCCCCC)CCCCCC	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair42	amine	Nc1ccc(-c2cc(-c3ccc(N)cc3)nc(-c3ccc(N)cc3)c2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair43	aldehyde	CCCCCCC1(C2=CC3=C(C=C2C2SC(=CC1=2)C=O)C(C1C=C(C=O)SC=13)(CCCCCC)CCCCCC)CCCCCC	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair43	amine	Nc1ccc(-c2nc(-c3ccc(N)cc3)nc(-c3ccc(N)cc3)n2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair44	aldehyde	O=Cc1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair44	amine	Nc1ccc(-c2nc(-c3ccc(N)cc3)nc(-c3ccc(N)cc3)n2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair45	aldehyde	O=Cc1ccc(C(=C(c2ccc(C=O)cc2)c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair45	amine	Nc1ccc(-c2ccc(-c3ccc(N)cc3)c3nonc23)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair46	aldehyde	O=Cc1ccc(-c2ccc(-c3ccc(C=O)cc3)c3nonc23)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair46	amine	C1C(/C(=C(/C2=CC=C(N)C=C2)\C2=CC=C(N)C=C2)/C2=CC=C(N)C=C2)=CC=C(N)C=1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair47	aldehyde	O=Cc1cc(-c2ccc(N3C(=O)c4cccc5c(-c6ccc(O)c(C=O)c6)ccc(c45)C3=O)cc2)ccc1O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair47	amine	Nc1ccc(-c2cc(-c3ccc(N)cc3)cc(-c3ccc(N)cc3)c2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair48	aldehyde	O=Cc1ccc(-c2ccc(C(=O)/C=C(\O)c3ccc(-c4ccc(C=O)cc4)cc3)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair48	amine	O=C(NN)C(C=CC(C(NN)=O)=C1)=C1OCCOCCOCCOCCOCCOCCOC2=CC(C(NN)=O)=CC=C2C(NN)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair49	aldehyde	O=Cc1cc(C=O)c(O)c(-c2nc3ccccc3[nH]2)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair49	amine	NNC(=O)c1ccc(-c2cc(-c3ccc(C(=O)NN)cc3)cc(-c3ccc(C(=O)NN)cc3)c2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair50	aldehyde	O=CC(C=C1)=CC=C1C(C=C2)=CC3=C2[N+]4=NC5=CC=C(C6=CC=C(C=O)C=C6)C=C5O[B@-]4(C7=CC=CC=C7)O3	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair50	amine	Nc1ccc(N(c2ccc(N)cc2)c2ccc(N)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair51	aldehyde	O=Cc1cc(C=O)c(O)c(-c2nc3ccccc3[nH]2)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair51	amine	Nc1ccc(-c2cc(-c3ccc(N)cc3)cc(-c3ccc(N)cc3)c2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair52	aldehyde	O=CC1=CC=C(OCCOCCC2=CC=C(C=O)C=C2)C=C1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair52	amine	CC(C)(C)C1=CC2=C(OCC(NN)=O)C(CC3=CC(C(C)(C)C)=CC(CC4=C(OCC(NN)=O)C(CC5=C(OCC(NN)=O)C(C2)=CC(C(C)(C)C)=C5)=CC(C(C)(C)C)=C4)=C3OCC(NN)=O)=C1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair53	aldehyde	O=Cc1ccc(-c2ccc(C(=C(c3ccccc3)c3ccccc3)c3ccc(-c4ccc(C=O)cc4)cc3)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair53	amine	Nc1ccc(Oc2cc(Oc3ccc(N)cc3)cc(Oc3ccc(N)cc3)c2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair54	aldehyde	O=CC1=CC2=C(C(C=C(C(CCCCCC)(CCCCCC)C3=C4SC(C=O)=C3)C4=C5)=C5C2(CCCCCC)CCCCCC)S1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair54	amine	NC(C=C1)=CC=C1C2=CC(C3=CC=C(N)C=C3)=CC(C4=CC=C(N)C=C4)=C2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair55	aldehyde	O=CC1=CC2=C(C(C=C(C(CCCCCC)(CCCCCC)C3=C4SC(C=O)=C3)C4=C5)=C5C2(CCCCCC)CCCCCC)S1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair55	amine	NC(C=C1)=CC=C1C2=NC(C3=CC=C(N)C=C3)=CC(C4=CC=C(N)C=C4)=C2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair56	aldehyde	O=CC1=CC2=C(C(C=C(C(CCCCCC)(CCCCCC)C3=C4SC(C=O)=C3)C4=C5)=C5C2(CCCCCC)CCCCCC)S1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair56	amine	NC(C=C1)=CC=C1C2=NC(C3=CC=C(N)C=C3)=NC(C4=CC=C(N)C=C4)=C2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair57	aldehyde	O=CC1=CC2=C(C(C=C(C(CCCCCC)(CCCCCC)C3=C4SC(C=O)=C3)C4=C5)=C5C2(CCCCCC)CCCCCC)S1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair57	amine	NC(C=C1)=CC=C1C2=NC(C3=CC=C(N)C=C3)=NC(C4=CC=C(N)C=C4)=N2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair58	aldehyde	O=CC(C=C1)=CC=C1C2=CC=C(/C(C3=CC=C(C4=CC=C(C=O)C=C4)C=C3)=C(C5=CC=C(C6=CC=C(C=O)C=C6)C=C5)/C7=CC=C(C8=CC=C(C=O)C=C8)C=C7)C=C2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair58	amine	O=C(NN)C1=CC=C(C(NN)=O)C=C1OCCOC2=CC(C(NN)=O)=CC=C2C(NN)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair59	aldehyde	O=CC1=C(O)C(C=O)=CC=C1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:42:24	pair59	amine	O=C(NN)C1=CC(C(NN)=O)=CC(C(NN)=O)=C1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:51	pair01	aldehyde	O=CC1=CC(/C(C2=CC(C=O)=C(O)C=C2)=C(C3=CC(C=O)=C(O)C=C3)/C4=CC(C=O)=C(O)C=C4)=CC=C1O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:51	pair01	amine	Nc1ccc(Oc2ccc(N)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:51	pair02	aldehyde	O=CC(C=C1)=CC=C1C2=CC=C(C3=CC=C(C=O)C=C3)C4=NSN=C24	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:51	pair02	amine	NNC(=O)c1ccc(N(c2ccc(C(=O)NN)cc2)c2ccc(C(=O)NN)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:51	pair03	aldehyde	O=Cc1c(O)c(C=O)c(O)c(C=O)c1O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:51	pair03	amine	NC(C=C1)=CC=C1C2=NC(C3=CC=C(N)C=C3)=NC(C4=CC=C(N)C=C4)=N2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair04	aldehyde	C12=CC(C3C=CC(C=O)=CC=3)=C(C3C=CC(C=O)=CC=3)C=C1C13C4=CC(C5C=CC(C=O)=CC=5)=C(C5C=CC(C=O)=CC=5)C=C4C21C1=CC(C2C=CC(C=O)=CC=2)=C(C2C=CC(C=O)=CC=2)C=C31	3D embedding failed
+2025-12-05T09:43:52	pair04	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair05	aldehyde	O=Cc1ccc(C=O)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair05	amine	C1C(/C(=C(/C2=CC=C(N)C=C2)\C2=CC=C(N)C=C2)/C2=CC=C(N)C=C2)=CC=C(N)C=1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair06	aldehyde	O=CC(C=C1)=CC=C1C(C=C2)=CC=C2B(C3=CC=C(C4=CC=C(C=O)C=C4)C=C3)C5=C(NC6=NC=CC=C6)C7=CC=CC(C(N(CCCC)C8=O)=O)=C7C8=C5	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair06	amine	NNC(=O)c1cc(C(=O)NN)cc(C(=O)NN)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair07	aldehyde	[H]C123([BH]456C7389C%10=CC=C(N%11C(C=CC(C%12=CC=C(C=O)C=C%12)=C%13)=C%13C%14=C%11C=CC(C%15=CC=C(C=O)C=C%15)=C%14)C=C%10)[BH]%16%174[BH]%18%19%20[BH]%21%22%23[BH]%18%166[BH]%2158[BH]%22%247[BH]%23%19%25[BH]%2419[BH]%17%202%25	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair07	amine	O=C(NC1=CC=C(C(NN)=O)C=C1)C2=CC(C(NC3=CC=C(C(NN)=O)C=C3)=O)=CC(C(NC4=CC=C(C(NN)=O)C=C4)=O)=C2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair08	aldehyde	O=Cc1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair08	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair09	aldehyde	O=Cc1ccc(C(=C(c2ccc(C=O)cc2)c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair09	amine	Nc1ccc(Oc2ccc(-c3ccc(Oc4ccc(N)cc4)cc3)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair10	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair10	amine	Nc1ccc(N(c2ccc(N)cc2)c2ccc(N)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair11	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair11	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair12	aldehyde	O=CC1=CC=C([B-]2(OC3=C([N+]2=CC=C4)C4=CC=C3)C5=CC=C(C=O)C=C5)C=C1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair12	amine	NNC(=O)c1cc(C(=O)NN)cc(C(=O)NN)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair13	aldehyde	O=Cc1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair13	amine	C12=C(C3C=CC(C(=O)NN)=CC=3)C3N4[Cu]56N7=C(C(C8C=CC(C(=O)NN)=CC=8)=C8N5C(=C(C5C=CC(C(=O)NN)=CC=5)C(=N16)C=C2)C=C8)C=CC7=C(C1C=CC(C(=O)NN)=CC=1)C4=CC=3	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair14	aldehyde	N#C/C(=C(/C#N)c1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1)c1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair14	amine	Nc1ccc(Cc2ccc(N)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair15	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair15	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Co]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair16	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair16	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Cu]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair17	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair17	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Zn]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair18	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair18	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Mg]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair19	aldehyde	O=CC(C=C1)=CC=C1C2=NC(C3=CC=C(C=O)C=C3)=NC(C4=CC=C(C=O)C=C4)=N2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair19	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Co]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair20	aldehyde	O=CC(C=C1)=CC=C1C2=NC(C3=CC=C(C=O)C=C3)=NC(C4=CC=C(C=O)C=C4)=N2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair20	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Cu]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair21	aldehyde	O=CC(C=C1)=CC=C1C2=NC(C3=CC=C(C=O)C=C3)=NC(C4=CC=C(C=O)C=C4)=N2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair21	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3C=CC5C(=C6N7C(=C(C8C=CC(C(NN)=O)=CC=8)C8=N([Zn]47N=53)C=2C=C8)C=C6)C2C=CC(C(NN)=O)=CC=2)=CC=1)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair22	aldehyde	O=CC(C=C1)=CC=C1C2=NC(C3=CC=C(C=O)C=C3)=NC(C4=CC=C(C=O)C=C4)=N2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair22	amine	C(NN)(C1C=CC(C2C3N4C(C(=C5N6[Mg]74N4C(C=CC4=C(C4=N7C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=6C=C5)C2C=CC(C(NN)=O)=CC=2)=CC=3)=CC=1)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair23	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair23	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Co]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair24	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair24	amine	*C(=O)c1ccc(/C2=C3\C=CC4=[N]3->[Cu]35<-[N]6=C(C=C/C6=C(\c6ccc(C(=O)NN)cc6)c6ccc2[n]63)/C(c2ccc(C(=O)NN)cc2)=c2/cc/c([n]25)=C/4c2ccc(C(=O)N(N)N)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair25	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair25	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3C=CC5C(=C6N7C(=C(C8C=CC(C(NN)=O)=CC=8)C8=N([Zn]47N=53)C=2C=C8)C=C6)C2C=CC(C(NN)=O)=CC=2)=CC=1)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair26	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair26	amine	C(NN)(C1C=CC(C2C3N4C(C(=C5N6[Mg]74N4C(C=CC4=C(C4=N7C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=6C=C5)C2C=CC(C(NN)=O)=CC=2)=CC=3)=CC=1)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair27	aldehyde	O=Cc1ccc(C#Cc2ccc(C(=C(c3ccc(C#Cc4ccc(C=O)cc4)cc3)c3ccc(C#Cc4ccc(C=O)cc4)cc3)c3ccc(C#Cc4ccc(C=O)cc4)cc3)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair27	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair28	aldehyde	O=CC(C=C1)=CC=C1C(C=C2)=CC=C2C345([BH]678C95%10%11C%12=CC=C(C%13=CC=C(C=O)C=C%13)C=C%12)[BH]%14%156[BH]%16%17%18[BH]%19%20%21[BH]%16%148[BH]%197%10[BH]%20%229[BH]%21%17%23[BH]%223%11[BH]%15%184%23	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair28	amine	NNC(C1C=CC(NC(C2C=C(C(NC3C=CC(C(NN)=O)=CC=3)=O)C=C(C(NC3C=CC(C(NN)=O)=CC=3)=O)C=2)=O)=CC=1)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair29	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair29	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair30	aldehyde	O=CC1C=CC(C2C=NC(C3C=CC(C=O)=CC=3)=CC=2)=CC=1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair30	amine	C1C(/C(=C(/C2=CC=C(N)C=C2)\C2=CC=C(N)C=C2)/C2=CC=C(N)C=C2)=CC=C(N)C=1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair31	aldehyde	O=Cc1ccc(C(=C(c2ccc(C=O)cc2)c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair31	amine	NNC(C1C(N2CCC2)=CC(C(NN)=O)=C(N2CCC2)C=1)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair32	aldehyde	O=Cc1ccc(N(c2ccc(C=O)cc2)c2ccc(-c3c4ccccc4nc4ccccc34)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair32	amine	NNC(=O)c1cc(C(=O)NN)cc(C(=O)NN)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair33	aldehyde	O=Cc1ccc(-c2cc(-c3ccc(C=O)s3)cc(-c3ccc(C=O)s3)c2)s1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair33	amine	C=CCOC1C(C(NN)=O)=CC(OCC=C)=C(C(NN)=O)C=1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair34	aldehyde	O=Cc1ccc(-c2cc(-c3ccc(C=O)cc3)c3ccc4c(-c5ccc(C=O)cc5)cc(-c5ccc(C=O)cc5)c5ccc2c3c54)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair34	amine	Nc1ccc(N(c2ccc(N)cc2)c2ccc(N(c3ccc(N)cc3)c3ccc(N)cc3)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair35	aldehyde	C12C=C(C=O)SC1=C1C=C(C=O)SC1=C1C=C(C=O)SC=21	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair35	amine	Nc1ccc(-c2cc(-c3ccc(N)cc3)cc(-c3ccc(N)cc3)c2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:52	pair36	aldehyde	C12C=C(C=O)SC1=C1C=C(C=O)SC1=C1C=C(C=O)SC=21	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair36	amine	Nc1ccc(N(c2ccc(N)cc2)c2ccc(N)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair37	aldehyde	O=Cc1ccc(-c2ccc3c(c2)Cc2cc(-c4ccc(C=O)cc4)ccc2-3)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair37	amine	Nc1ccc(-c2ccc(-c3ccc(N)cc3)c3nonc23)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair38	aldehyde	O=Cc1ccc(C(=C(c2ccc(C=O)cc2)c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair38	amine	NNC(=O)c1ccc(C(=O)NN)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair39	aldehyde	O=Cc1ccc(-c2ccc(C(=C(c3ccc(-c4ccc(C=O)cc4)cc3)c3ccc(-c4ccc(C=O)cc4)cc3)c3ccc(-c4ccc(C=O)cc4)cc3)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair39	amine	O=C(NN)C(C=CC(C(NN)=O)=C1)=C1OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC2=CC(C(NN)=O)=CC=C2C(NN)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair40	aldehyde	O=Cc1cccc(C=O)c1O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair40	amine	O=C(NN)C(C=CC(C(NN)=O)=C1)=C1OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC2=CC(C(NN)=O)=CC=C2C(NN)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair41	aldehyde	CCCCCCC1(C2=CC3=C(C=C2C2SC(=CC1=2)C=O)C(C1C=C(C=O)SC=13)(CCCCCC)CCCCCC)CCCCCC	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair41	amine	Nc1ccc(-c2cc(-c3ccc(N)cc3)cc(-c3ccc(N)cc3)c2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair42	aldehyde	CCCCCCC1(C2=CC3=C(C=C2C2SC(=CC1=2)C=O)C(C1C=C(C=O)SC=13)(CCCCCC)CCCCCC)CCCCCC	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair42	amine	Nc1ccc(-c2cc(-c3ccc(N)cc3)nc(-c3ccc(N)cc3)c2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair43	aldehyde	CCCCCCC1(C2=CC3=C(C=C2C2SC(=CC1=2)C=O)C(C1C=C(C=O)SC=13)(CCCCCC)CCCCCC)CCCCCC	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair43	amine	Nc1ccc(-c2nc(-c3ccc(N)cc3)nc(-c3ccc(N)cc3)n2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair44	aldehyde	O=Cc1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair44	amine	Nc1ccc(-c2nc(-c3ccc(N)cc3)nc(-c3ccc(N)cc3)n2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair45	aldehyde	O=Cc1ccc(C(=C(c2ccc(C=O)cc2)c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair45	amine	Nc1ccc(-c2ccc(-c3ccc(N)cc3)c3nonc23)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair46	aldehyde	O=Cc1ccc(-c2ccc(-c3ccc(C=O)cc3)c3nonc23)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair46	amine	C1C(/C(=C(/C2=CC=C(N)C=C2)\C2=CC=C(N)C=C2)/C2=CC=C(N)C=C2)=CC=C(N)C=1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair47	aldehyde	O=Cc1cc(-c2ccc(N3C(=O)c4cccc5c(-c6ccc(O)c(C=O)c6)ccc(c45)C3=O)cc2)ccc1O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair47	amine	Nc1ccc(-c2cc(-c3ccc(N)cc3)cc(-c3ccc(N)cc3)c2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair48	aldehyde	O=Cc1ccc(-c2ccc(C(=O)/C=C(\O)c3ccc(-c4ccc(C=O)cc4)cc3)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair48	amine	O=C(NN)C(C=CC(C(NN)=O)=C1)=C1OCCOCCOCCOCCOCCOCCOC2=CC(C(NN)=O)=CC=C2C(NN)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair49	aldehyde	O=Cc1cc(C=O)c(O)c(-c2nc3ccccc3[nH]2)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair49	amine	NNC(=O)c1ccc(-c2cc(-c3ccc(C(=O)NN)cc3)cc(-c3ccc(C(=O)NN)cc3)c2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair50	aldehyde	O=CC(C=C1)=CC=C1C(C=C2)=CC3=C2[N+]4=NC5=CC=C(C6=CC=C(C=O)C=C6)C=C5O[B@-]4(C7=CC=CC=C7)O3	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair50	amine	Nc1ccc(N(c2ccc(N)cc2)c2ccc(N)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair51	aldehyde	O=Cc1cc(C=O)c(O)c(-c2nc3ccccc3[nH]2)c1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair51	amine	Nc1ccc(-c2cc(-c3ccc(N)cc3)cc(-c3ccc(N)cc3)c2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair52	aldehyde	O=CC1=CC=C(OCCOCCC2=CC=C(C=O)C=C2)C=C1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair52	amine	CC(C)(C)C1=CC2=C(OCC(NN)=O)C(CC3=CC(C(C)(C)C)=CC(CC4=C(OCC(NN)=O)C(CC5=C(OCC(NN)=O)C(C2)=CC(C(C)(C)C)=C5)=CC(C(C)(C)C)=C4)=C3OCC(NN)=O)=C1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair53	aldehyde	O=Cc1ccc(-c2ccc(C(=C(c3ccccc3)c3ccccc3)c3ccc(-c4ccc(C=O)cc4)cc3)cc2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair53	amine	Nc1ccc(Oc2cc(Oc3ccc(N)cc3)cc(Oc3ccc(N)cc3)c2)cc1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair54	aldehyde	O=CC1=CC2=C(C(C=C(C(CCCCCC)(CCCCCC)C3=C4SC(C=O)=C3)C4=C5)=C5C2(CCCCCC)CCCCCC)S1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair54	amine	NC(C=C1)=CC=C1C2=CC(C3=CC=C(N)C=C3)=CC(C4=CC=C(N)C=C4)=C2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair55	aldehyde	O=CC1=CC2=C(C(C=C(C(CCCCCC)(CCCCCC)C3=C4SC(C=O)=C3)C4=C5)=C5C2(CCCCCC)CCCCCC)S1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair55	amine	NC(C=C1)=CC=C1C2=NC(C3=CC=C(N)C=C3)=CC(C4=CC=C(N)C=C4)=C2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair56	aldehyde	O=CC1=CC2=C(C(C=C(C(CCCCCC)(CCCCCC)C3=C4SC(C=O)=C3)C4=C5)=C5C2(CCCCCC)CCCCCC)S1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair56	amine	NC(C=C1)=CC=C1C2=NC(C3=CC=C(N)C=C3)=NC(C4=CC=C(N)C=C4)=C2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair57	aldehyde	O=CC1=CC2=C(C(C=C(C(CCCCCC)(CCCCCC)C3=C4SC(C=O)=C3)C4=C5)=C5C2(CCCCCC)CCCCCC)S1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair57	amine	NC(C=C1)=CC=C1C2=NC(C3=CC=C(N)C=C3)=NC(C4=CC=C(N)C=C4)=N2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair58	aldehyde	O=CC(C=C1)=CC=C1C2=CC=C(/C(C3=CC=C(C4=CC=C(C=O)C=C4)C=C3)=C(C5=CC=C(C6=CC=C(C=O)C=C6)C=C5)/C7=CC=C(C8=CC=C(C=O)C=C8)C=C7)C=C2	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair58	amine	O=C(NN)C1=CC=C(C(NN)=O)C=C1OCCOC2=CC(C(NN)=O)=CC=C2C(NN)=O	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair59	aldehyde	O=CC1=C(O)C(C=O)=CC=C1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:43:53	pair59	amine	O=C(NN)C1=CC(C(NN)=O)=CC(C(NN)=O)=C1	expected str, bytes or os.PathLike object, not NoneType
+2025-12-05T09:46:56	pair04	aldehyde	C12=CC(C3C=CC(C=O)=CC=3)=C(C3C=CC(C=O)=CC=3)C=C1C13C4=CC(C5C=CC(C=O)=CC=5)=C(C5C=CC(C=O)=CC=5)C=C4C21C1=CC(C2C=CC(C=O)=CC=2)=C(C2C=CC(C=O)=CC=2)C=C31	3D embedding failed
+2025-12-05T14:32:16	pair01	aldehyde	O=CC1=CC(/C(C2=CC(C=O)=C(O)C=C2)=C(C3=CC(C=O)=C(O)C=C3)/C4=CC(C=O)=C(O)C=C4)=CC=C1O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:16	pair01	amine	Nc1ccc(Oc2ccc(N)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:16	pair02	aldehyde	O=CC(C=C1)=CC=C1C2=CC=C(C3=CC=C(C=O)C=C3)C4=NSN=C24	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:16	pair02	amine	NNC(=O)c1ccc(N(c2ccc(C(=O)NN)cc2)c2ccc(C(=O)NN)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:16	pair03	aldehyde	O=Cc1c(O)c(C=O)c(O)c(C=O)c1O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:16	pair03	amine	NC(C=C1)=CC=C1C2=NC(C3=CC=C(N)C=C3)=NC(C4=CC=C(N)C=C4)=N2	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:17	pair04	aldehyde	C12=CC(C3C=CC(C=O)=CC=3)=C(C3C=CC(C=O)=CC=3)C=C1C13C4=CC(C5C=CC(C=O)=CC=5)=C(C5C=CC(C=O)=CC=5)C=C4C21C1=CC(C2C=CC(C=O)=CC=2)=C(C2C=CC(C=O)=CC=2)C=C31	3D embedding failed
+2025-12-05T14:32:18	pair04	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C)=O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:18	pair05	aldehyde	O=Cc1ccc(C=O)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:18	pair05	amine	C1C(/C(=C(/C2=CC=C(N)C=C2)\C2=CC=C(N)C=C2)/C2=CC=C(N)C=C2)=CC=C(N)C=1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:18	pair06	aldehyde	O=CC(C=C1)=CC=C1C(C=C2)=CC=C2B(C3=CC=C(C4=CC=C(C=O)C=C4)C=C3)C5=C(NC6=NC=CC=C6)C7=CC=CC(C(N(CCCC)C8=O)=O)=C7C8=C5	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:18	pair06	amine	NNC(=O)c1cc(C(=O)NN)cc(C(=O)NN)c1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:18	pair07	aldehyde	[H]C123([BH]456C7389C%10=CC=C(N%11C(C=CC(C%12=CC=C(C=O)C=C%12)=C%13)=C%13C%14=C%11C=CC(C%15=CC=C(C=O)C=C%15)=C%14)C=C%10)[BH]%16%174[BH]%18%19%20[BH]%21%22%23[BH]%18%166[BH]%2158[BH]%22%247[BH]%23%19%25[BH]%2419[BH]%17%202%25	Invalid SMILES string
+2025-12-05T14:32:18	pair07	amine	O=C(NC1=CC=C(C(NN)=O)C=C1)C2=CC(C(NC3=CC=C(C(NN)=O)C=C3)=O)=CC(C(NC4=CC=C(C(NN)=O)C=C4)=O)=C2	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:18	pair08	aldehyde	O=Cc1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:18	pair08	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C)=O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:18	pair09	aldehyde	O=Cc1ccc(C(=C(c2ccc(C=O)cc2)c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:18	pair09	amine	Nc1ccc(Oc2ccc(-c3ccc(Oc4ccc(N)cc4)cc3)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:18	pair10	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:18	pair10	amine	Nc1ccc(N(c2ccc(N)cc2)c2ccc(N)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:18	pair11	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:19	pair11	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C)=O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:19	pair12	aldehyde	O=CC1=CC=C([B-]2(OC3=C([N+]2=CC=C4)C4=CC=C3)C5=CC=C(C=O)C=C5)C=C1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:19	pair12	amine	NNC(=O)c1cc(C(=O)NN)cc(C(=O)NN)c1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:19	pair13	aldehyde	O=Cc1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:19	pair13	amine	C12=C(C3C=CC(C(=O)NN)=CC=3)C3N4[Cu]56N7=C(C(C8C=CC(C(=O)NN)=CC=8)=C8N5C(=C(C5C=CC(C(=O)NN)=CC=5)C(=N16)C=C2)C=C8)C=CC7=C(C1C=CC(C(=O)NN)=CC=1)C4=CC=3	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:19	pair14	aldehyde	N#C/C(=C(/C#N)c1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1)c1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:19	pair14	amine	Nc1ccc(Cc2ccc(N)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:19	pair15	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:22	pair15	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Co]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	3D embedding failed
+2025-12-05T14:32:23	pair16	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:23	pair16	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Cu]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:23	pair17	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:24	pair17	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Zn]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	3D embedding failed
+2025-12-05T14:32:24	pair18	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:25	pair18	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Mg]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:32:25	pair19	aldehyde	O=CC(C=C1)=CC=C1C2=NC(C3=CC=C(C=O)C=C3)=NC(C4=CC=C(C=O)C=C4)=N2	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:54	pair01	aldehyde	O=CC1=CC(/C(C2=CC(C=O)=C(O)C=C2)=C(C3=CC(C=O)=C(O)C=C3)/C4=CC(C=O)=C(O)C=C4)=CC=C1O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:54	pair01	amine	Nc1ccc(Oc2ccc(N)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:54	pair02	aldehyde	O=CC(C=C1)=CC=C1C2=CC=C(C3=CC=C(C=O)C=C3)C4=NSN=C24	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:54	pair02	amine	NNC(=O)c1ccc(N(c2ccc(C(=O)NN)cc2)c2ccc(C(=O)NN)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:54	pair03	aldehyde	O=Cc1c(O)c(C=O)c(O)c(C=O)c1O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:54	pair03	amine	NC(C=C1)=CC=C1C2=NC(C3=CC=C(N)C=C3)=NC(C4=CC=C(N)C=C4)=N2	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:55	pair04	aldehyde	C12=CC(C3C=CC(C=O)=CC=3)=C(C3C=CC(C=O)=CC=3)C=C1C13C4=CC(C5C=CC(C=O)=CC=5)=C(C5C=CC(C=O)=CC=5)C=C4C21C1=CC(C2C=CC(C=O)=CC=2)=C(C2C=CC(C=O)=CC=2)C=C31	3D embedding failed
+2025-12-05T14:33:55	pair04	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C)=O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:55	pair05	aldehyde	O=Cc1ccc(C=O)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:55	pair05	amine	C1C(/C(=C(/C2=CC=C(N)C=C2)\C2=CC=C(N)C=C2)/C2=CC=C(N)C=C2)=CC=C(N)C=1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:55	pair06	aldehyde	O=CC(C=C1)=CC=C1C(C=C2)=CC=C2B(C3=CC=C(C4=CC=C(C=O)C=C4)C=C3)C5=C(NC6=NC=CC=C6)C7=CC=CC(C(N(CCCC)C8=O)=O)=C7C8=C5	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:55	pair06	amine	NNC(=O)c1cc(C(=O)NN)cc(C(=O)NN)c1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:55	pair07	aldehyde	[H]C123([BH]456C7389C%10=CC=C(N%11C(C=CC(C%12=CC=C(C=O)C=C%12)=C%13)=C%13C%14=C%11C=CC(C%15=CC=C(C=O)C=C%15)=C%14)C=C%10)[BH]%16%174[BH]%18%19%20[BH]%21%22%23[BH]%18%166[BH]%2158[BH]%22%247[BH]%23%19%25[BH]%2419[BH]%17%202%25	Invalid SMILES string
+2025-12-05T14:33:56	pair07	amine	O=C(NC1=CC=C(C(NN)=O)C=C1)C2=CC(C(NC3=CC=C(C(NN)=O)C=C3)=O)=CC(C(NC4=CC=C(C(NN)=O)C=C4)=O)=C2	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:56	pair08	aldehyde	O=Cc1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:56	pair08	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C)=O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:56	pair09	aldehyde	O=Cc1ccc(C(=C(c2ccc(C=O)cc2)c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:56	pair09	amine	Nc1ccc(Oc2ccc(-c3ccc(Oc4ccc(N)cc4)cc3)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:56	pair10	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:56	pair10	amine	Nc1ccc(N(c2ccc(N)cc2)c2ccc(N)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:56	pair11	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:56	pair11	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C)=O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:56	pair12	aldehyde	O=CC1=CC=C([B-]2(OC3=C([N+]2=CC=C4)C4=CC=C3)C5=CC=C(C=O)C=C5)C=C1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:56	pair12	amine	NNC(=O)c1cc(C(=O)NN)cc(C(=O)NN)c1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:56	pair13	aldehyde	O=Cc1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:57	pair13	amine	C12=C(C3C=CC(C(=O)NN)=CC=3)C3N4[Cu]56N7=C(C(C8C=CC(C(=O)NN)=CC=8)=C8N5C(=C(C5C=CC(C(=O)NN)=CC=5)C(=N16)C=C2)C=C8)C=CC7=C(C1C=CC(C(=O)NN)=CC=1)C4=CC=3	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:57	pair14	aldehyde	N#C/C(=C(/C#N)c1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1)c1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:57	pair14	amine	Nc1ccc(Cc2ccc(N)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:33:57	pair15	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:34:59	pair15	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Co]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	3D embedding failed
+2025-12-05T14:34:59	pair16	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:34:59	pair16	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Cu]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:34:59	pair17	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:35:02	pair17	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Zn]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	3D embedding failed
+2025-12-05T14:35:02	pair18	aldehyde	O=Cc1ccc(Oc2nc(Oc3ccc(C=O)cc3)nc(Oc3ccc(C=O)cc3)n2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:35:03	pair18	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Mg]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:35:03	pair19	aldehyde	O=CC(C=C1)=CC=C1C2=NC(C3=CC=C(C=O)C=C3)=NC(C4=CC=C(C=O)C=C4)=N2	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:36:23	pair19	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Co]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	3D embedding failed
+2025-12-05T14:36:23	pair20	aldehyde	O=CC(C=C1)=CC=C1C2=NC(C3=CC=C(C=O)C=C3)=NC(C4=CC=C(C=O)C=C4)=N2	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:36:23	pair20	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Cu]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:36:23	pair21	aldehyde	O=CC(C=C1)=CC=C1C2=NC(C3=CC=C(C=O)C=C3)=NC(C4=CC=C(C=O)C=C4)=N2	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:36:26	pair21	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3C=CC5C(=C6N7C(=C(C8C=CC(C(NN)=O)=CC=8)C8=N([Zn]47N=53)C=2C=C8)C=C6)C2C=CC(C(NN)=O)=CC=2)=CC=1)=O	3D embedding failed
+2025-12-05T14:36:26	pair22	aldehyde	O=CC(C=C1)=CC=C1C2=NC(C3=CC=C(C=O)C=C3)=NC(C4=CC=C(C=O)C=C4)=N2	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:36:26	pair22	amine	C(NN)(C1C=CC(C2C3N4C(C(=C5N6[Mg]74N4C(C=CC4=C(C4=N7C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=6C=C5)C2C=CC(C(NN)=O)=CC=2)=CC=3)=CC=1)=O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:36:26	pair23	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:07	pair23	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Co]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	3D embedding failed
+2025-12-05T14:37:07	pair24	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:08	pair24	amine	*C(=O)c1ccc(/C2=C3\C=CC4=[N]3->[Cu]35<-[N]6=C(C=C/C6=C(\c6ccc(C(=O)NN)cc6)c6ccc2[n]63)/C(c2ccc(C(=O)NN)cc2)=c2/cc/c([n]25)=C/4c2ccc(C(=O)N(N)N)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:08	pair25	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:10	pair25	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3C=CC5C(=C6N7C(=C(C8C=CC(C(NN)=O)=CC=8)C8=N([Zn]47N=53)C=2C=C8)C=C6)C2C=CC(C(NN)=O)=CC=2)=CC=1)=O	3D embedding failed
+2025-12-05T14:37:10	pair26	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:10	pair26	amine	C(NN)(C1C=CC(C2C3N4C(C(=C5N6[Mg]74N4C(C=CC4=C(C4=N7C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=6C=C5)C2C=CC(C(NN)=O)=CC=2)=CC=3)=CC=1)=O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:10	pair27	aldehyde	O=Cc1ccc(C#Cc2ccc(C(=C(c3ccc(C#Cc4ccc(C=O)cc4)cc3)c3ccc(C#Cc4ccc(C=O)cc4)cc3)c3ccc(C#Cc4ccc(C=O)cc4)cc3)cc2)cc1	3D embedding failed
+2025-12-05T14:37:11	pair27	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C)=O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:11	pair28	aldehyde	O=CC(C=C1)=CC=C1C(C=C2)=CC=C2C345([BH]678C95%10%11C%12=CC=C(C%13=CC=C(C=O)C=C%13)C=C%12)[BH]%14%156[BH]%16%17%18[BH]%19%20%21[BH]%16%148[BH]%197%10[BH]%20%229[BH]%21%17%23[BH]%223%11[BH]%15%184%23	Invalid SMILES string
+2025-12-05T14:37:11	pair28	amine	NNC(C1C=CC(NC(C2C=C(C(NC3C=CC(C(NN)=O)=CC=3)=O)C=C(C(NC3C=CC(C(NN)=O)=CC=3)=O)C=2)=O)=CC=1)=O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:11	pair29	aldehyde	O=Cc1cc(C=O)cc(C=O)c1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:11	pair29	amine	N(N)C(CCC1(C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(CCC(=O)NN)(C)C2=CC=C(N2)C(C)(CCC(=O)NN)C2NC1=CC=2)C)=O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:11	pair30	aldehyde	O=CC1C=CC(C2C=NC(C3C=CC(C=O)=CC=3)=CC=2)=CC=1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:12	pair30	amine	C1C(/C(=C(/C2=CC=C(N)C=C2)\C2=CC=C(N)C=C2)/C2=CC=C(N)C=C2)=CC=C(N)C=1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:12	pair31	aldehyde	O=Cc1ccc(C(=C(c2ccc(C=O)cc2)c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:12	pair31	amine	NNC(C1C(N2CCC2)=CC(C(NN)=O)=C(N2CCC2)C=1)=O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:12	pair32	aldehyde	O=Cc1ccc(N(c2ccc(C=O)cc2)c2ccc(-c3c4ccccc4nc4ccccc34)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:12	pair32	amine	NNC(=O)c1cc(C(=O)NN)cc(C(=O)NN)c1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:12	pair33	aldehyde	O=Cc1ccc(-c2cc(-c3ccc(C=O)s3)cc(-c3ccc(C=O)s3)c2)s1	3D embedding failed
+2025-12-05T14:37:12	pair33	amine	C=CCOC1C(C(NN)=O)=CC(OCC=C)=C(C(NN)=O)C=1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:12	pair34	aldehyde	O=Cc1ccc(-c2cc(-c3ccc(C=O)cc3)c3ccc4c(-c5ccc(C=O)cc5)cc(-c5ccc(C=O)cc5)c5ccc2c3c54)cc1	3D embedding failed
+2025-12-05T14:37:12	pair34	amine	Nc1ccc(N(c2ccc(N)cc2)c2ccc(N(c3ccc(N)cc3)c3ccc(N)cc3)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:12	pair35	aldehyde	C12C=C(C=O)SC1=C1C=C(C=O)SC1=C1C=C(C=O)SC=21	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:12	pair35	amine	Nc1ccc(-c2cc(-c3ccc(N)cc3)cc(-c3ccc(N)cc3)c2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:12	pair36	aldehyde	C12C=C(C=O)SC1=C1C=C(C=O)SC1=C1C=C(C=O)SC=21	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:12	pair36	amine	Nc1ccc(N(c2ccc(N)cc2)c2ccc(N)cc2)cc1	3D embedding failed
+2025-12-05T14:37:12	pair37	aldehyde	O=Cc1ccc(-c2ccc3c(c2)Cc2cc(-c4ccc(C=O)cc4)ccc2-3)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:13	pair37	amine	Nc1ccc(-c2ccc(-c3ccc(N)cc3)c3nonc23)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:13	pair38	aldehyde	O=Cc1ccc(C(=C(c2ccc(C=O)cc2)c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	3D embedding failed
+2025-12-05T14:37:13	pair38	amine	NNC(=O)c1ccc(C(=O)NN)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:13	pair39	aldehyde	O=Cc1ccc(-c2ccc(C(=C(c3ccc(-c4ccc(C=O)cc4)cc3)c3ccc(-c4ccc(C=O)cc4)cc3)c3ccc(-c4ccc(C=O)cc4)cc3)cc2)cc1	3D embedding failed
+2025-12-05T14:37:13	pair39	amine	O=C(NN)C(C=CC(C(NN)=O)=C1)=C1OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC2=CC(C(NN)=O)=CC=C2C(NN)=O	3D embedding failed
+2025-12-05T14:37:13	pair40	aldehyde	O=Cc1cccc(C=O)c1O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:13	pair40	amine	O=C(NN)C(C=CC(C(NN)=O)=C1)=C1OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOC2=CC(C(NN)=O)=CC=C2C(NN)=O	3D embedding failed
+2025-12-05T14:37:13	pair41	aldehyde	CCCCCCC1(C2=CC3=C(C=C2C2SC(=CC1=2)C=O)C(C1C=C(C=O)SC=13)(CCCCCC)CCCCCC)CCCCCC	3D embedding failed
+2025-12-05T14:37:13	pair41	amine	Nc1ccc(-c2cc(-c3ccc(N)cc3)cc(-c3ccc(N)cc3)c2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:14	pair42	aldehyde	CCCCCCC1(C2=CC3=C(C=C2C2SC(=CC1=2)C=O)C(C1C=C(C=O)SC=13)(CCCCCC)CCCCCC)CCCCCC	3D embedding failed
+2025-12-05T14:37:14	pair42	amine	Nc1ccc(-c2cc(-c3ccc(N)cc3)nc(-c3ccc(N)cc3)c2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:14	pair43	aldehyde	CCCCCCC1(C2=CC3=C(C=C2C2SC(=CC1=2)C=O)C(C1C=C(C=O)SC=13)(CCCCCC)CCCCCC)CCCCCC	3D embedding failed
+2025-12-05T14:37:14	pair43	amine	Nc1ccc(-c2nc(-c3ccc(N)cc3)nc(-c3ccc(N)cc3)n2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:14	pair44	aldehyde	O=Cc1ccc(N(c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	3D embedding failed
+2025-12-05T14:37:14	pair44	amine	Nc1ccc(-c2nc(-c3ccc(N)cc3)nc(-c3ccc(N)cc3)n2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:14	pair45	aldehyde	O=Cc1ccc(C(=C(c2ccc(C=O)cc2)c2ccc(C=O)cc2)c2ccc(C=O)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:14	pair45	amine	Nc1ccc(-c2ccc(-c3ccc(N)cc3)c3nonc23)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:14	pair46	aldehyde	O=Cc1ccc(-c2ccc(-c3ccc(C=O)cc3)c3nonc23)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:14	pair46	amine	C1C(/C(=C(/C2=CC=C(N)C=C2)\C2=CC=C(N)C=C2)/C2=CC=C(N)C=C2)=CC=C(N)C=1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:14	pair47	aldehyde	O=Cc1cc(-c2ccc(N3C(=O)c4cccc5c(-c6ccc(O)c(C=O)c6)ccc(c45)C3=O)cc2)ccc1O	3D embedding failed
+2025-12-05T14:37:14	pair47	amine	Nc1ccc(-c2cc(-c3ccc(N)cc3)cc(-c3ccc(N)cc3)c2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:15	pair48	aldehyde	O=Cc1ccc(-c2ccc(C(=O)/C=C(\O)c3ccc(-c4ccc(C=O)cc4)cc3)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:15	pair48	amine	O=C(NN)C(C=CC(C(NN)=O)=C1)=C1OCCOCCOCCOCCOCCOCCOC2=CC(C(NN)=O)=CC=C2C(NN)=O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:15	pair49	aldehyde	O=Cc1cc(C=O)c(O)c(-c2nc3ccccc3[nH]2)c1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:15	pair49	amine	NNC(=O)c1ccc(-c2cc(-c3ccc(C(=O)NN)cc3)cc(-c3ccc(C(=O)NN)cc3)c2)cc1	3D embedding failed
+2025-12-05T14:37:15	pair50	aldehyde	O=CC(C=C1)=CC=C1C(C=C2)=CC3=C2[N+]4=NC5=CC=C(C6=CC=C(C=O)C=C6)C=C5O[B@-]4(C7=CC=CC=C7)O3	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:15	pair50	amine	Nc1ccc(N(c2ccc(N)cc2)c2ccc(N)cc2)cc1	3D embedding failed
+2025-12-05T14:37:15	pair51	aldehyde	O=Cc1cc(C=O)c(O)c(-c2nc3ccccc3[nH]2)c1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:15	pair51	amine	Nc1ccc(-c2cc(-c3ccc(N)cc3)cc(-c3ccc(N)cc3)c2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:15	pair52	aldehyde	O=CC1=CC=C(OCCOCCC2=CC=C(C=O)C=C2)C=C1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:16	pair52	amine	CC(C)(C)C1=CC2=C(OCC(NN)=O)C(CC3=CC(C(C)(C)C)=CC(CC4=C(OCC(NN)=O)C(CC5=C(OCC(NN)=O)C(C2)=CC(C(C)(C)C)=C5)=CC(C(C)(C)C)=C4)=C3OCC(NN)=O)=C1	3D embedding failed
+2025-12-05T14:37:16	pair53	aldehyde	O=Cc1ccc(-c2ccc(C(=C(c3ccccc3)c3ccccc3)c3ccc(-c4ccc(C=O)cc4)cc3)cc2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:16	pair53	amine	Nc1ccc(Oc2cc(Oc3ccc(N)cc3)cc(Oc3ccc(N)cc3)c2)cc1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:16	pair54	aldehyde	O=CC1=CC2=C(C(C=C(C(CCCCCC)(CCCCCC)C3=C4SC(C=O)=C3)C4=C5)=C5C2(CCCCCC)CCCCCC)S1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:16	pair54	amine	NC(C=C1)=CC=C1C2=CC(C3=CC=C(N)C=C3)=CC(C4=CC=C(N)C=C4)=C2	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:17	pair55	aldehyde	O=CC1=CC2=C(C(C=C(C(CCCCCC)(CCCCCC)C3=C4SC(C=O)=C3)C4=C5)=C5C2(CCCCCC)CCCCCC)S1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:17	pair55	amine	NC(C=C1)=CC=C1C2=NC(C3=CC=C(N)C=C3)=CC(C4=CC=C(N)C=C4)=C2	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:17	pair56	aldehyde	O=CC1=CC2=C(C(C=C(C(CCCCCC)(CCCCCC)C3=C4SC(C=O)=C3)C4=C5)=C5C2(CCCCCC)CCCCCC)S1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:17	pair56	amine	NC(C=C1)=CC=C1C2=NC(C3=CC=C(N)C=C3)=NC(C4=CC=C(N)C=C4)=C2	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:18	pair57	aldehyde	O=CC1=CC2=C(C(C=C(C(CCCCCC)(CCCCCC)C3=C4SC(C=O)=C3)C4=C5)=C5C2(CCCCCC)CCCCCC)S1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:18	pair57	amine	NC(C=C1)=CC=C1C2=NC(C3=CC=C(N)C=C3)=NC(C4=CC=C(N)C=C4)=N2	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:18	pair58	aldehyde	O=CC(C=C1)=CC=C1C2=CC=C(/C(C3=CC=C(C4=CC=C(C=O)C=C4)C=C3)=C(C5=CC=C(C6=CC=C(C=O)C=C6)C=C5)/C7=CC=C(C8=CC=C(C=O)C=C8)C=C7)C=C2	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:18	pair58	amine	O=C(NN)C1=CC=C(C(NN)=O)C=C1OCCOC2=CC(C(NN)=O)=CC=C2C(NN)=O	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:18	pair59	aldehyde	O=CC1=C(O)C(C=O)=CC=C1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:37:18	pair59	amine	O=C(NN)C1=CC(C(NN)=O)=CC(C(NN)=O)=C1	[Errno 2] No such file or directory: 'd:\\project\\workflow\\Gaussian\\tmp\\templeate.gjf'
+2025-12-05T14:38:09	pair04	aldehyde	C12=CC(C3C=CC(C=O)=CC=3)=C(C3C=CC(C=O)=CC=3)C=C1C13C4=CC(C5C=CC(C=O)=CC=5)=C(C5C=CC(C=O)=CC=5)C=C4C21C1=CC(C2C=CC(C=O)=CC=2)=C(C2C=CC(C=O)=CC=2)C=C31	3D embedding failed
+2025-12-05T14:38:09	pair07	aldehyde	[H]C123([BH]456C7389C%10=CC=C(N%11C(C=CC(C%12=CC=C(C=O)C=C%12)=C%13)=C%13C%14=C%11C=CC(C%15=CC=C(C=O)C=C%15)=C%14)C=C%10)[BH]%16%174[BH]%18%19%20[BH]%21%22%23[BH]%18%166[BH]%2158[BH]%22%247[BH]%23%19%25[BH]%2419[BH]%17%202%25	Invalid SMILES string
+2025-12-05T14:39:11	pair15	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Co]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	3D embedding failed
+2025-12-05T14:39:13	pair17	amine	O=C(C(C=C1)=CC=C1C2=C3C=CC(N3[Zn]45N67)=C(C8=CC=C(C(NN)=O)C=C8)C(C=C9)=[N]5C9=C(C%10=CC=C(C(NN)=O)C=C%10)C7=CC=C6C(C%11=CC=C(C(NN)=O)C=C%11)=C%12[N]4=C2C=C%12)NN	3D embedding failed
+2025-12-05T14:40:24	pair19	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Co]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	3D embedding failed
+2025-12-05T14:40:27	pair21	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3C=CC5C(=C6N7C(=C(C8C=CC(C(NN)=O)=CC=8)C8=N([Zn]47N=53)C=2C=C8)C=C6)C2C=CC(C(NN)=O)=CC=2)=CC=1)=O	3D embedding failed
+2025-12-05T14:41:24	pair23	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3N5[Co]64N4C(C=CC4=C(C4=N6C=2C=C4)C2C=CC(C(NN)=O)=CC=2)=C(C2C=CC(C(NN)=O)=CC=2)C=5C=C3)=CC=1)=O	3D embedding failed
+2025-12-05T14:41:27	pair25	amine	C(NN)(C1C=CC(C2C3N4C(=CC=3)C(C3C=CC(C(NN)=O)=CC=3)=C3C=CC5C(=C6N7C(=C(C8C=CC(C(NN)=O)=CC=8)C8=N([Zn]47N=53)C=2C=C8)C=C6)C2C=CC(C(NN)=O)=CC=2)=CC=1)=O	3D embedding failed
+2025-12-05T14:41:27	pair27	aldehyde	O=Cc1ccc(C#Cc2ccc(C(=C(c3ccc(C#Cc4ccc(C=O)cc4)cc3)c3ccc(C#Cc4ccc(C=O)cc4)cc3)c3ccc(C#Cc4ccc(C=O)cc4)cc3)cc2)cc1	3D embedding failed
+2025-12-05T14:41:27	pair28	aldehyde	O=CC(C=C1)=CC=C1C(C=C2)=CC=C2C345([BH]678C95%10%11C%12=CC=C(C%13=CC=C(C=O)C=C%13)C=C%12)[BH]%14%156[BH]%16%17%18[BH]%19%20%21[BH]%16%148[BH]%197%10[BH]%20%229[BH]%21%17%23[BH]%223%11[BH]%15%184%23	Invalid SMILES string

@@ -1,2 +1,4 @@
-./CCO
-./pair*
+CCO
+Gaussian/data
+Gaussian/logs
+__pycache__/
