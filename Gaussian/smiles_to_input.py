@@ -80,7 +80,7 @@ def gjf_to_link_input():
         Path(work_dir).mkdir(parents=True, exist_ok=True)
     tmp_file = config.tmp_file
     submit_script = config.script_file
-    log_file = config.log_file
+    log_file = config.input_log_file
     generate_dir = config.generate_dir
     failures = []
     print(tmp_file,submit_script,log_file,work_dir)
@@ -110,7 +110,7 @@ def gjf_to_link_input():
                     log_failure(log_file, name, species, smile, message)
                     failures.append((name, species, smile, message))
     if failures:
-        print(f"共 {len(failures)} 个分子需要手动生成，详情见 {failure_log_path}")
+        print(f"共 {len(failures)} 个分子需要手动生成，详情见 {log_file}")
     return
 
 if __name__ == "__main__":
